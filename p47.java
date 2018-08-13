@@ -29,7 +29,7 @@ class Ideone
 	 			}
             		}
 		}
-		System.out.println(a[0]);
+		System.out.println(a[0]+"\t");
 		System.out.println(a[n-1]);
 	}
 }
