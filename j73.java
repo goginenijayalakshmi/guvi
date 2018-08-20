@@ -14,6 +14,7 @@ class Ideone
 		n=s.nextInt();
 		l=s.nextInt();
 	r=s.nextInt();
+		l=l+1;
 	boolean flag=false;
 	for(i=l;i<r;i++)
 	{
