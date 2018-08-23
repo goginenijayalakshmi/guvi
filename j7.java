@@ -15,7 +15,7 @@ class Ideone
 		n=s.nextInt();
 		m=s.nextInt();
 		n=n*m;
-		for(i=1;i<=n/2;i++)
+		for(i=0;i<=n/2;i++)
 		{
 			if(n==i*i)
 			flag=true;
