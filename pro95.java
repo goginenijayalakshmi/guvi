@@ -16,7 +16,8 @@ class Ideone
 		p=s.nextInt();
 		t=s.nextInt();
 		r=s.nextInt();
-		si=(p*t*r)/100;
+		si= (p*t*r)/100;
 		System.out.println(si);
+		
 	}
 }
