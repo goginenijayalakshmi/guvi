@@ -12,9 +12,10 @@ class Ideone
 		int a,b,ch;
 		Scanner s=new Scanner(System.in);
 		a=s.nextInt();
-		b=s.nextInt();
 		ch=s.nextInt();
-		switch(ch)
+	
+		b=s.nextInt();
+			switch(ch)
 		{
 			case 1:
 				a=a/b;
